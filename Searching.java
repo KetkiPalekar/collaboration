@@ -2,8 +2,8 @@ package SearchingAndSorting;
 
 public class Searching {
 		
-	
-	//Linear search (edit by master)
+
+	//Linear search (changed by developer)
 	//Linear search for array of integers
 	public static int linearSearch(int[] arr, int searchElement) {
 	    for (int i = 0; i < arr.length; i++) {
